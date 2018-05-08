@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<head>
 <html lang="en">
+<head>
 <?php
 	require "php_files/html_structure.php";
 	$html_format = new HtmlFormat();
