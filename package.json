@@ -1,0 +1,39 @@
+{
+  "name": "window_form_php",
+  "version": "1.0.0",
+  "description": "window form for sales",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemar27/window_form_php.git"
+  },
+  "keywords": [
+    "form",
+    "webpack",
+    "babeljs",
+    "es6",
+    "react",
+    "php"
+  ],
+  "author": "Joseph Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemar27/window_form_php/issues"
+  },
+  "homepage": "https://github.com/joemar27/window_form_php#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  }
+}

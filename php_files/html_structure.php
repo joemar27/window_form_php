@@ -20,6 +20,7 @@ class HtmlFormat {
 	public function html_footer_js(){
 		return "
 			<script src='dist/js/bootstrap.min.js'></script>
+			<script src='dist/js/bundle.js'></script>
 		";
 	}
 
